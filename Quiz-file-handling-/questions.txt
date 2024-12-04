@@ -1,0 +1,35 @@
+Topic: Python
+What is the correct file extension for Python files?;py;python;pt;pyt;py
+Which of the following is a mutable data type in Python?;List;Tuple;String;Integer;List
+What keyword is used to create a function in Python?;def;func;function;lambda;def
+What is the output of 3 * 2 ** 3 in Python?;24;48;16;64;24
+Which of the following is NOT a valid Python data type?;Set;Dictionary;Array;Tuple;Array
+What does the len() function do in Python?;Returns the length of a string;Adds elements;Counts items in a list;Both A and C;Both A and C
+What is used to handle exceptions in Python?;try-except;if-else;for-while;None;try-except
+Which operator is used to check equality in Python?;==;=;eq;!=;==
+What is the output of type(10)?;<class 'str'>;<class 'int'>;<class 'float'>;<class 'list'>;<class 'int'>
+Which method is used to add elements to a list?;add();insert();append();push();append()
+
+Topic: DBMS
+What does DBMS stand for?;Data Built Management System;Database Management System;Data Base Manipulation System;Database Maintenance System;Database Management System
+Which of the following is NOT a type of database?;Hierarchical;Relational;Flat File;Tree-based;Tree-based
+Which language is used to query a database?;SQL;Python;C++;HTML;SQL
+What is a primary key?;Unique identifier for records;Used to establish foreign keys;Used to duplicate data;None of the above;Unique identifier for records
+What does ACID stand for in DBMS?;Atomicity, Consistency, Isolation, Durability;Access, Control, Integrity, Data;Authentication, Commit, Isolation, Durability;Atomicity, Control, Isolation, Database;Atomicity, Consistency, Isolation, Durability
+What is a foreign key?;Key in another table;Duplicate key;Unique key;None of the above;Key in another table
+Which command is used to delete all records in a table?;TRUNCATE;DELETE;DROP;REMOVE;TRUNCATE
+What is normalization?;Eliminating redundancy;Increasing redundancy;Enhancing queries;None of the above;Eliminating redundancy
+Which SQL command is used to retrieve data?;SELECT;GET;FETCH;RETRIEVE;SELECT
+What is a view in a database?;A virtual table;A stored procedure;Physical storage;Temporary data;A virtual table
+
+Topic: Networking
+What does IP stand for in networking?;Internet Protocol;Internal Process;Internet Process;Interface Protocol;Internet Protocol
+Which layer of the OSI model is responsible for routing?;Network Layer;Data Link Layer;Transport Layer;Session Layer;Network Layer
+What is the default port for HTTP?;80;443;25;21;80
+What device is used to connect multiple networks?;Router;Switch;Hub;Modem;Router
+What does DNS stand for?;Domain Name System;Dynamic Network System;Data Name System;Domain Network Server;Domain Name System
+Which protocol is used to transfer files over the internet?;FTP;HTTP;TCP;SMTP;FTP
+What is the primary purpose of a firewall?;Prevent unauthorized access;Boost internet speed;Control email traffic;Perform network diagnostics;Prevent unauthorized access
+Which IP address version uses 128-bit addressing?;IPv4;IPv6;IPv5;IPv7;IPv6
+What is the maximum length of a MAC address?;6 bytes;12 bytes;4 bytes;8 bytes;6 bytes
+Which protocol ensures error-free delivery of data?;TCP;UDP;ICMP;ARP;TCP
